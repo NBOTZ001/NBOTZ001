@@ -34,17 +34,18 @@ Official Channel: @nawabbotupdate
 
 ---
 
-### 📊 GitHub Statistics
-
+<!-- 📊 GitHub Statistics -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NBOTZ001&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NBOTZ001&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NBOTZ001&show_icons=true&theme=dark" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NBOTZ001&theme=tokyonight&hide_border=true" width="98%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NBOTZ001&layout=compact&theme=dark" alt="Top Languages" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=NBOTZ001&theme=tokyonight&column=4" alt="GitHub Trophies" />
+</p>
 ---
 
 ### 🌐 Connect With Me
